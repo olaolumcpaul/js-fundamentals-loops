@@ -24,7 +24,10 @@
     "eslint-plugin-promise": "^5.1.0",
     "husky": "^8.0.3",
     "jasmine": "^4.6.0",
-    "nodemon": "^2.0.20",
+    "nodemon": "^3.1.0",
     "prettier": "^2.6.2"
+  },
+  "dependencies": {
+    "update": "^0.4.2"
   }
 }
